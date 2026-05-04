@@ -1,4 +1,4 @@
-﻿namespace AspNetIntro.Models
+﻿namespace MVC_CRUD_Task.Models
 {
     public class student
     {

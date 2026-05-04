@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AspNetIntro.Controllers
+namespace MVC_CRUD_Task.Controllers
 {
     public class StudentsController : Controller
     {

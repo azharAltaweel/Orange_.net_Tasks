@@ -2,7 +2,7 @@ using System.Diagnostics;
 using AspNetIntro.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AspNetIntro.Controllers
+namespace MVC_CRUD_Task.Controllers
 {
     public class HomeController : Controller
     {

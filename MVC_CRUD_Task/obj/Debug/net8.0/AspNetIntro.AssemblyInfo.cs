@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetIntro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54ec770826a89cb39cc73ca8ff4a7ead69551ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f99c781a43071e9b37b0ffd2f423f101eea454c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetIntro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetIntro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
