@@ -54,8 +54,7 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAkwD0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T20:12:28.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T20:12:28.378Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,8 @@
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Orange_.net_Tasks\\MVC_Tasks_3\\ProductsApp_Task2\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Orange_.net_Tasks\\MVC_Tasks_3\\ProductsApp_Task2\\Views\\Category\\Create.cshtml*",
-              "RelativeToolTip": "Views\\Category\\Create.cshtml*",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Orange_.net_Tasks\\MVC_Tasks_3\\ProductsApp_Task2\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-02T21:01:26.46Z",
@@ -76,12 +75,11 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Orange_.net_Tasks\\MVC_Tasks_3\\ProductsApp_Task2\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Orange_.net_Tasks\\MVC_Tasks_3\\ProductsApp_Task2\\Views\\Category\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Category\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Orange_.net_Tasks\\MVC_Tasks_3\\ProductsApp_Task2\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-02T21:03:57.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T21:03:57.852Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-02T21:03:55.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T21:03:55.266Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Controllers\\CategoryController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T20:11:47.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T20:11:47.782Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Views\\Category\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-02T21:03:53.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T21:03:53.779Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-02T21:01:53.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T21:01:53.656Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T20:20:15.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T20:20:15.229Z"
             }
           ]
         }
