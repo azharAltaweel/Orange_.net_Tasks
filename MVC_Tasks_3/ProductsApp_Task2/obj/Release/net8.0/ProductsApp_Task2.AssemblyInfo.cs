@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductsApp_Task2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f99c781a43071e9b37b0ffd2f423f101eea454c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fe1f6bab7bd20a429e51fffb59da74294c52264")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductsApp_Task2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductsApp_Task2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
